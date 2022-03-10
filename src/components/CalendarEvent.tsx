@@ -75,7 +75,7 @@ function _CalendarEvent<T extends ICalendarEventBase>({
       showTime={showTime}
       ampm={ampm}
       touchableOpacityProps={touchableOpacityProps}
-      textColor={textColor}
+      textColor={'red'}
     />
   )
 }
