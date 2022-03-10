@@ -46,7 +46,7 @@ function _CalendarHeaderForMonthView({
                 },
               ]}
             >
-              {date.format('ddd')}
+              {date.format('ddd') + 'monmentjs'}
             </Text>
           </View>
         </View>
